@@ -22,5 +22,5 @@ We meet regularly for prayer, Bible study, and fellowship.
   </iframe>
 </div>
 
-👉 See the **[full calendar on this site](/calendar/)**  
+👉 See the **[full calendar on this site]({{ "/calendar/" | relative_url }})**  
 or **[open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=cuhchristians@gmail.com)**.
