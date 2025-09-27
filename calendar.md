@@ -1,6 +1,7 @@
 ---
 title: "Calendar"
 permalink: /calendar/
+layout: single
 ---
 
 # Fellowship Calendar
