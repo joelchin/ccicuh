@@ -1,28 +1,27 @@
-/* Preview (compact agenda view) */
-.calendar-preview {
-  position: relative;
-  padding-bottom: 40%; /* shorter */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  margin: 1rem 0;
+/* Buttons above calendar */
+.calendar-buttons {
+  margin-bottom: 1rem;
 }
-.calendar-preview iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+.calendar-buttons button {
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.calendar-buttons button:hover {
+  background-color: #004999;
 }
 
-/* Full calendar (tall month view) */
+/* Full calendar area */
 .calendar-full {
   position: relative;
-  padding-bottom: 120%; /* very tall, shows whole month */
+  padding-bottom: 120%; /* tall for month view */
   height: 0;
   overflow: hidden;
   max-width: 100%;
-  margin: 1rem 0;
 }
 .calendar-full iframe {
   position: absolute;
