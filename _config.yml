@@ -1,13 +1,13 @@
+# Site settings
 title: "Christians at CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
 remote_theme: "mmistakes/minimal-mistakes"
-
 plugins:
   - jekyll-include-cache
 
-# Navigation menu
-nav:
+# Navigation bar links
+navigation:
   - title: "Home"
     url: /
   - title: "Calendar"
@@ -17,7 +17,7 @@ nav:
   - title: "Links"
     url: /links/
 
-# Defaults for pages
+# Defaults so pages get the right layout
 defaults:
   - scope:
       path: ""
