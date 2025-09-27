@@ -1,29 +1,60 @@
-/* Buttons above calendar */
+/* ===========================
+   Calendar Buttons (Calendar Page)
+   =========================== */
 .calendar-buttons {
   margin-bottom: 1rem;
+  text-align: center; /* center buttons */
 }
+
 .calendar-buttons button {
   background-color: #0066cc;
   color: white;
   border: none;
   padding: 0.5rem 1rem;
-  margin-right: 0.5rem;
+  margin: 0 0.25rem;
   border-radius: 5px;
   cursor: pointer;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease;
 }
+
 .calendar-buttons button:hover {
   background-color: #004999;
 }
 
-/* Full calendar area */
+/* ===========================
+   Full Calendar (Month/Week/Agenda page)
+   =========================== */
 .calendar-full {
   position: relative;
   padding-bottom: 120%; /* tall for month view */
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  margin: 1rem 0;
 }
+
 .calendar-full iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* ===========================
+   Agenda Preview (Homepage)
+   =========================== */
+.calendar-preview {
+  position: relative;
+  padding-bottom: 50%; /* shows ~5 events in agenda view */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+.calendar-preview iframe {
   position: absolute;
   top: 0;
   left: 0;
