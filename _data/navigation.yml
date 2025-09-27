@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Calendar"
-    url: /calendar/
   - title: "About"
     url: /about/
   - title: "Links"
