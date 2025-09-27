@@ -1,0 +1,26 @@
+title: "Christians at CUH"
+description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "Calendar"
+    url: /calendar/
+  - title: "About"
+    url: /about/
+  - title: "Links"
+    url: /links/
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
