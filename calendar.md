@@ -3,7 +3,9 @@ title: "Calendar"
 permalink: /calendar/
 ---
 
-<div class="calendar-container">
+# Fellowship Calendar
+
+<div class="calendar-full">
   <iframe 
     src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon" 
     style="border:0" 
@@ -11,5 +13,3 @@ permalink: /calendar/
     scrolling="no">
   </iframe>
 </div>
-
-👉 You can also [open the calendar directly](https://calendar.google.com/calendar/u/0?cid=cuhchristians@gmail.com).
