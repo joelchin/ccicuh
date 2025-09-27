@@ -61,3 +61,21 @@
   width: 100%;
   height: 100%;
 }
+
+
+/* Default (mobile) */
+.calendar-full {
+  position: relative;
+  padding-bottom: 120%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+/* Desktop screens */
+@media (min-width: 768px) {
+  .calendar-full {
+    padding-bottom: 160%; /* extra tall on bigger screens */
+  }
+}
