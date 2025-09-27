@@ -1,12 +1,12 @@
-# Site settings
 title: "Christians at CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
+# Use Minimal Mistakes via GitHub (no local install needed)
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# Navigation bar links
+# Navigation bar items
 navigation:
   - title: "Home"
     url: /
@@ -17,7 +17,7 @@ navigation:
   - title: "Links"
     url: /links/
 
-# Defaults so pages get the right layout
+# Default page layout
 defaults:
   - scope:
       path: ""
