@@ -1,6 +1,10 @@
 title: "Christians at CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
+url: "https://joelchin.github.io"   # or later: "https://cuhchristians.com"
+baseurl: "/cicuh"                   # remove this line once you move to a root domain
+
+
 # Use Minimal Mistakes via GitHub (no local install needed)
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
