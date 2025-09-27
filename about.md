@@ -6,9 +6,9 @@ permalink: /about/
 We are a Christian fellowship at **Addenbrooke’s Hospital (CUH)**.  
 
 We welcome staff, students, and anyone interested in exploring the Christian faith.  
+  
+- Prayer and worship
+- Talks and Bible study
+- Fellowship and encouragement  
 
-- 📖 Weekly Bible studies  
-- 🙏 Prayer meetings  
-- ☕ Fellowship and encouragement  
-
-Contact: [your@email.com]
+Contact: [cuchchristians@gmail.com]
