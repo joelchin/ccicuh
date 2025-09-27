@@ -6,8 +6,8 @@ layout: single
 
 # Christians at CUH
 
-We are a group of Christians working and studying at **Cambridge University Hospitals**.  
-We meet regularly for prayer, Bible study, and fellowship.  
+We are a group of Christians working at **Cambridge University Hospitals**.  
+We meet regularly for prayer, worship, Bible study, and fellowship.  
 
 ---
 
