@@ -27,7 +27,7 @@
    =========================== */
 .calendar-full {
   position: relative;
-  padding-bottom: 120%; /* tall for month view */
+  padding-bottom: 150%; /* taller than default for full month view */
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -42,12 +42,19 @@
   height: 100%;
 }
 
+/* On larger screens, make it even taller */
+@media (min-width: 768px) {
+  .calendar-full {
+    padding-bottom: 180%; /* very tall for desktops/laptops */
+  }
+}
+
 /* ===========================
    Agenda Preview (Homepage)
    =========================== */
 .calendar-preview {
   position: relative;
-  padding-bottom: 50%; /* shows ~5 events in agenda view */
+  padding-bottom: 55%; /* shows ~6 events in agenda view */
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -62,20 +69,9 @@
   height: 100%;
 }
 
-
-/* Default (mobile) */
-.calendar-full {
-  position: relative;
-  padding-bottom: 120%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  margin: 1rem 0;
-}
-
-/* Desktop screens */
+/* On larger screens, give the preview a bit more height */
 @media (min-width: 768px) {
-  .calendar-full {
-    padding-bottom: 160%; /* extra tall on bigger screens */
+  .calendar-preview {
+    padding-bottom: 65%; /* ~8 events visible on desktop */
   }
 }
