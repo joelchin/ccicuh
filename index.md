@@ -11,8 +11,6 @@ show_title: false
        style="max-height:120px; width:auto;">
 </p>
 
-# Connecting Christians in CUH
-
 We are a group of Christians working at **Cambridge University Hospitals**.  
 We meet regularly for prayer, worship, Bible reading, and fellowship.  
 
