@@ -77,5 +77,11 @@
   }
 }
 
+/* Shrink and lighten the top-left masthead title */
+.masthead__inner-wrap .site-title {
+  font-size: 1rem;      /* smaller font size */
+  font-weight: 400;     /* regular instead of bold */
+  color: #555;          /* softer grey */
+}
 
 
