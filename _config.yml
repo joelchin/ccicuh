@@ -1,4 +1,3 @@
-logo: "/assets/images/cicuhlogo.svg"
 title: "Christians in CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
@@ -31,6 +30,7 @@ defaults:
       type: "pages"
     values:
       layout: single
+      logo: "/assets/images/cicuhlogo.svg"
 
       include:
   - assets/css/custom.css
