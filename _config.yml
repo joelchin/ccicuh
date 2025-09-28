@@ -4,8 +4,8 @@ description: "Fellowship, prayer and encouragement at Cambridge University Hospi
 url: "https://joelchin.github.io"
 baseurl: "/ccicuh"
 
-# ✅ Root-level logo + masthead settings
-masthead_title: ""               # hide text, forces logo to show
+# ✅ Masthead settings
+masthead_title: false            # completely hide text
 logo: "/assets/images/ccicuhlogo.svg"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -17,9 +17,6 @@ minimal_mistakes_skin: "default"
 header:
   overlay: false
   show_overlay_excerpt: false
-  logo: "/assets/images/ccicuhlogo.svg"
-  title: ""
-  description: ""
 
 navigation:
   - title: "Home"
