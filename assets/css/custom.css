@@ -26,7 +26,7 @@
    FULL CALENDAR (Calendar page)
    =========================== */
 .calendar-full {
-  width: 100vw;                       /* take full viewport width */
+  width: 50%;                       /* take full viewport width */
   margin-left: calc(-50vw + 50%);     /* center it */
   height: 800px;                    
   border: 1px solid #e5e5e5;
@@ -59,7 +59,7 @@
    AGENDA PREVIEW (Homepage)
    =========================== */
 .calendar-preview {
-  width: 100vw;                       /* full viewport width */
+  width: 50%;                       /* full viewport width */
   margin-left: calc(-50vw + 50%);     /* center it */
   height: 400px;                      /* ~2× taller than before */
   border: 1px solid #e5e5e5;
