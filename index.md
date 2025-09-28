@@ -11,7 +11,7 @@ We meet regularly for prayer, worship, Bible reading, and fellowship.
 
 ---
 
-### Upcoming Meetings (Agenda View)
+### Upcoming Meetings 
 
 <div class="calendar-preview">
   <iframe 
