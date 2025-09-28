@@ -18,7 +18,7 @@ We meet regularly for prayer, worship, Bible reading, and fellowship.
     src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=AGENDA" 
     style="border:0" 
     frameborder="0" 
-    scrolling="no">
+    >
   </iframe>
 </div>
 
