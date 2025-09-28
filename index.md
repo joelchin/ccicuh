@@ -14,11 +14,11 @@ We meet regularly for prayer, worship, Bible reading, and fellowship.
 ### Upcoming Meetings 
 
 <div class="calendar-preview">
-  <iframe 
-    src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=AGENDA" 
-    style="border:0" 
-    frameborder="0" 
-    >
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=AGENDA"
+    style="border:0"
+    frameborder="0"
+    scrolling="yes">
   </iframe>
 </div>
 
