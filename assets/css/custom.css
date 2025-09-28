@@ -18,15 +18,17 @@
   transition: background-color .2s ease;
 }
 
-.calendar-buttons button:hover { background-color: #004999; }
+.calendar-buttons button:hover {
+  background-color: #004999;
+}
 
 /* ===========================
    FULL CALENDAR (Calendar page)
    =========================== */
 .calendar-full {
-  width: 100vw;           /* take full viewport width */
-  margin-left: calc(-50vw + 50%); /* center it */
-  height: 1600px;         /* ~2× current size */
+  width: 100vw;                       /* take full viewport width */
+  margin-left: calc(-50vw + 50%);     /* center it */
+  height: 1600px;                     /* ~2× current size */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
@@ -56,11 +58,10 @@
 /* ===========================
    AGENDA PREVIEW (Homepage)
    =========================== */
-/* Homepage agenda preview */
 .calendar-preview {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
-  height: 800px;          /* ~2× taller than before */
+  width: 100vw;                       /* full viewport width */
+  margin-left: calc(-50vw + 50%);     /* center it */
+  height: 800px;                      /* ~2× taller than before */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
