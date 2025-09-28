@@ -24,15 +24,12 @@
    FULL CALENDAR (Calendar page)
    =========================== */
 .calendar-full {
-  position: relative;
-  height: 85vh;           /* take most of the viewport */
-  min-height: 720px;      /* never shorter than this */
-  max-height: 1400px;     /* cap so it doesn’t explode */
-  max-width: 100%;
-  margin: 1.5rem 0;
+  width: 100vw;           /* take full viewport width */
+  margin-left: calc(-50vw + 50%); /* center it */
+  height: 1600px;         /* ~2× current size */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
-  overflow: hidden;       /* contain iframe */
+  overflow: hidden;
 }
 
 .calendar-full iframe {
@@ -59,13 +56,11 @@
 /* ===========================
    AGENDA PREVIEW (Homepage)
    =========================== */
+/* Homepage agenda preview */
 .calendar-preview {
-  position: relative;
-  height: 55vh;           /* taller than before */
-  min-height: 420px;
-  max-height: 720px;
-  max-width: 100%;
-  margin: 1.5rem 0;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  height: 800px;          /* ~2× taller than before */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
