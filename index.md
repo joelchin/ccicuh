@@ -8,7 +8,7 @@ show_title: false
 <p align="center">
   <img src="{{ '/assets/images/ccicuhlogo.svg' | relative_url }}" 
        alt="Connecting Christians in CUH" 
-       style="max-height:200px; width:auto;">
+       style="max-height:300px; width:auto;">
 </p>
 
 We are a group of Christians working at **Cambridge University Hospitals**.  
