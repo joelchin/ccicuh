@@ -1,9 +1,16 @@
----
-title: "Connecting Christians in CUH"
+title: ""
 permalink: /
 layout: single
 show_title: false
 ---
+
+<p align="center">
+  <img src="{{ '/assets/images/ccicuhlogo.svg' | relative_url }}" 
+       alt="Connecting Christians in CUH" 
+       style="max-height:120px; width:auto;">
+</p>
+
+# Connecting Christians in CUH
 
 We are a group of Christians working at **Cambridge University Hospitals**.  
 We meet regularly for prayer, worship, Bible reading, and fellowship.  
