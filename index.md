@@ -4,7 +4,7 @@ permalink: /
 layout: single
 ---
 
-# Christians at CUH
+# Christians in CUH
 
 We are a group of Christians working at **Cambridge University Hospitals**.  
 We meet regularly for prayer, worship, Bible study, and fellowship.  
