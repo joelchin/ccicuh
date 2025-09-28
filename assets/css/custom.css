@@ -84,3 +84,10 @@
   max-height: 70px;   /* slightly larger for visibility */
   width: auto;
 }
+
+ .masthead__inner-wrap .site-logo img {
+  display: inline-block !important;
+  max-height: 70px;
+  width: auto;
+}
+
