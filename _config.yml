@@ -4,6 +4,7 @@ description: "Fellowship, prayer and encouragement at Cambridge University Hospi
 url: "https://joelchin.github.io"
 baseurl: "/cicuh"
 
+# ✅ Site logo (top-level)
 logo: "/assets/images/cicuhlogo.svg"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -12,7 +13,7 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-# ✅ Header config
+# ✅ Header configuration
 header:
   overlay: false
   show_overlay_excerpt: false
@@ -20,6 +21,7 @@ header:
   title: "Christians in CUH"
   description: ""
 
+# Navigation bar
 navigation:
   - title: "Home"
     url: /
@@ -30,6 +32,7 @@ navigation:
   - title: "Links"
     url: /links/
 
+# Default layout for pages
 defaults:
   - scope:
       path: ""
