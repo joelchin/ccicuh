@@ -84,4 +84,9 @@
   color: #555;          /* softer grey */
 }
 
+/* Hide big page titles (since logo already replaces it) */
+.page__title,
+.page__meta {
+  display: none !important;
+}
 
