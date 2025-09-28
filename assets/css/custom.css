@@ -77,16 +77,5 @@
   }
 }
 
-/* Align logo in masthead */
-.site-logo img {
-  max-height: 50px;       /* adjust to taste */
-  width: auto;
-  vertical-align: middle; /* align with nav links */
-}
 
-.site-logo {
-  display: inline-flex;
-  align-items: center;    /* vertically center logo */
-  margin-right: 1rem;
-}
 
