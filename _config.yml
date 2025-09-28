@@ -1,12 +1,12 @@
-title: "Connecting Christians in CUH"
+title: "Christians in CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
 url: "https://joelchin.github.io"
-baseurl: "/ccicuh"
+baseurl: "/cicuh"
 
-# ✅ Root-level logo + masthead settings
-masthead_title: ""               # hide text, forces logo to show
-logo: "/assets/images/ccicuhlogo.svg"
+# ✅ Root-level settings
+masthead_title: ""                   # disables text in masthead
+logo: "/assets/images/cicuhlogo.svg" # logo path
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default"
 header:
   overlay: false
   show_overlay_excerpt: false
-  logo: "/assets/images/ccicuhlogo.svg"
+  logo: "/assets/images/cicuhlogo.svg"
   title: ""
   description: ""
 
