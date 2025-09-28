@@ -13,10 +13,10 @@ layout: single
 </div>
 
 <div class="calendar-full">
-  <iframe 
-    id="cuh-calendar"
-    src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=MONTH" 
-    style="border:0" 
-    frameborder="0" >
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=MONTH"
+    style="border:0"
+    frameborder="0"
+    scrolling="yes">
   </iframe>
 </div>
