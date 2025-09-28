@@ -1,5 +1,5 @@
 ---
-title: "Christians in CUH"
+title: "Connecting Christians in CUH"
 permalink: /
 layout: single
 ---
