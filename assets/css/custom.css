@@ -26,9 +26,10 @@
    FULL CALENDAR (Calendar page)
    =========================== */
 .calendar-full {
-  width: 50vw;                       /* take full viewport width */
-  margin-left: calc(-50vw + 50%);     /* center it */
-  height: 800px;                    
+  width: 66%;              /* 2/3 width */
+  margin-left: auto;       /* center horizontally */
+  margin-right: auto;
+  height: 800px;           /* base height */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
@@ -40,28 +41,22 @@
   border: 0;
 }
 
-/* Tablets (≥768px): give more room */
-@media (min-width: 768px) {
-  .calendar-full { height: 90vh; }
-}
-
-/* Laptops (≥1024px) */
-@media (min-width: 1024px) {
-  .calendar-full { height: 95vh; }
-}
-
-/* Large desktops (≥1440px) */
-@media (min-width: 1440px) {
-  .calendar-full { height: 100vh; }
+/* Tablets (≥768px) */
+@media (max-width: 1024px) {
+  .calendar-full {
+    width: 100%;           /* full width on tablets/mobiles */
+    height: 90vh;
+  }
 }
 
 /* ===========================
    AGENDA PREVIEW (Homepage)
    =========================== */
 .calendar-preview {
-  width: 50vw;                       /* full viewport width */
-  margin-left: calc(-50vw + 50%);     /* center it */
-  height: 400px;                      /* ~2× taller than before */
+  width: 66%;              /* 2/3 width */
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;           /* base height */
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
@@ -74,18 +69,11 @@
 }
 
 /* Tablets (≥768px) */
-@media (min-width: 768px) {
+@media (max-width: 1024px) {
   .calendar-preview {
+    width: 100%;           /* full width on tablets/mobiles */
     height: 60vh;
-    max-height: 760px;
-  }
-}
-
-/* Laptops (≥1024px) */
-@media (min-width: 1024px) {
-  .calendar-preview {
-    height: 65vh;
-    max-height: 800px;
+    max-height: 640px;
   }
 }
 
