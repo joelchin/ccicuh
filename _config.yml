@@ -2,11 +2,11 @@ title: "Christians in CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
 url: "https://joelchin.github.io"
-baseurl: "/cicuh"
+baseurl: "/ccicuh"
 
-# ✅ Root-level settings
-masthead_title: ""                   # disables text in masthead
-logo: "/assets/images/cicuhlogo.svg" # logo path
+# ✅ Masthead setup
+masthead_title: ""                 # removes duplicate text
+logo: "/assets/images/ccicuhlogo.svg"
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
@@ -17,9 +17,9 @@ minimal_mistakes_skin: "default"
 header:
   overlay: false
   show_overlay_excerpt: false
-  logo: "/assets/images/cicuhlogo.svg"
-  title: ""
-  description: ""
+  logo: "/assets/images/ccicuhlogo.svg"
+  title: ""                        # don’t repeat site title
+  description: ""                  # don’t show subtitle
 
 navigation:
   - title: "Home"
