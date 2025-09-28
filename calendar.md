@@ -17,7 +17,6 @@ layout: single
     id="cuh-calendar"
     src="https://calendar.google.com/calendar/embed?src=cuhchristians%40gmail.com&ctz=Europe%2FLondon&mode=MONTH" 
     style="border:0" 
-    frameborder="0" 
-    scrolling="no">
+    frameborder="0" >
   </iframe>
 </div>
