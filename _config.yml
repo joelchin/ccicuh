@@ -1,11 +1,11 @@
-title: ""   # no text title, logo only
-description: ""   # no subtitle
+title: "Christians in CUH"
+description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
 url: "https://joelchin.github.io"
 baseurl: "/cicuh"
 
-# ✅ Site logo (relative_url ensures /cicuh/ is included)
-logo: "{{ '/assets/images/cicuhlogo.svg' | relative_url }}"
+# ✅ Root-level site logo
+logo: "/assets/images/cicuhlogo.svg"
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
@@ -13,15 +13,15 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-# ✅ Header configuration
+# ✅ Header config (inline masthead)
 header:
-  overlay: false
+  overlay: false                # use normal masthead (inline)
   show_overlay_excerpt: false
   logo: "/assets/images/cicuhlogo.svg"
-  title: ""          # hide text title
-  description: ""    # hide subtitle
+  title: "Christians in CUH"    # optional: keep text alongside logo
+  description: ""               # optional subtitle
 
-# Navigation bar
+# ✅ Navigation
 navigation:
   - title: "Home"
     url: /
@@ -32,7 +32,7 @@ navigation:
   - title: "Links"
     url: /links/
 
-# Default layout for pages
+# ✅ Defaults
 defaults:
   - scope:
       path: ""
