@@ -23,12 +23,12 @@
 }
 
 /* ===========================
-   Full Calendar (Month/Week/Agenda page)
+   Full Calendar (Calendar Page)
    =========================== */
 .calendar-full {
   position: relative;
-  padding-bottom: 300%; /* tall responsive height */
-  height: 1100px;
+  padding-bottom: 150%; /* tall for month/week view */
+  height: 0;
   overflow: hidden;
   max-width: 100%;
   margin: 1rem 0;
@@ -38,24 +38,35 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 200%;
-  height: 200%;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
-/* On larger screens, make it even taller */
+/* On larger screens, give even more space */
 @media (min-width: 768px) {
   .calendar-full {
-    padding-bottom: 180%; /* very tall on desktops/laptops */
+    padding-bottom: 120%; /* very tall on desktops/laptops */
   }
 }
 
 /* ===========================
    Agenda Preview (Homepage)
    =========================== */
-.calendar-preview iframe {
-  width: 100%;
-  height: 1100px;  /* fixed height so it looks bigger */
-  border: 0;
-  display: block;
-  margin: 0 auto;
+.calendar-preview {
+  position: relative;
+  padding-bottom: 80%; /* shorter preview */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
 }
+
+.calendar-preview iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
