@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="150" viewBox="0 0 450 150">
+  <!-- Text -->
+  <text x="50%" y="55" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#333">
+    Connecting Christians in CUH
+  </text>
+
+  <!-- Wire -->
+  <path d="M90 95 Q115 80, 140 95 T190 95 T240 95 T290 95 T340 95" stroke="#444" stroke-width="2" fill="none"></path>
+
+  <!-- Lights -->
+  <circle cx="90" cy="95" r="10" fill="#f9c74f"></circle>
+  <circle cx="140" cy="95" r="10" fill="#f9844a"></circle>
+  <circle cx="190" cy="95" r="10" fill="#f9f871"></circle>
+  <circle cx="240" cy="95" r="10" fill="#f9c74f"></circle>
+  <circle cx="290" cy="95" r="10" fill="#f9844a"></circle>
+  <circle cx="340" cy="95" r="10" fill="#f9c74f"></circle>
+</svg>
