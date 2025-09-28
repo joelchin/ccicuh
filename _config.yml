@@ -1,19 +1,18 @@
 title: "Christians in CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
-url: "https://joelchin.github.io"   # or later: "https://cuhchristians.com"
-baseurl: "/cicuh"                   # remove this line once you move to a root domain
+url: "https://joelchin.github.io"
+baseurl: "/cicuh"
 
- logo: "/assets/images/cicuhlogo.svg"
- 
-# Use Minimal Mistakes via GitHub (no local install needed)
+# ✅ Put logo here (top level)
+logo: "/assets/images/cicuhlogo.svg"
+
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "default"
 
-# Navigation bar items
 navigation:
   - title: "Home"
     url: /
@@ -24,17 +23,9 @@ navigation:
   - title: "Links"
     url: /links/
 
-# Default page layout
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: single
-
-      include:
-  - assets/css/custom.css
-  
-### Upcoming Meetings (preview)
-
-
