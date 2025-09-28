@@ -2,6 +2,7 @@
 title: "Connecting Christians in CUH"
 permalink: /
 layout: single
+show_title: false
 ---
 
 We are a group of Christians working at **Cambridge University Hospitals**.  
