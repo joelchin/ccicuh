@@ -25,4 +25,4 @@ Salvation & Hope — By God’s grace, through faith in Christ alone; the Spirit
 
 We come from different church traditions and denominations, but we share a common faith centred on Jesus Christ and the good news of the gospel.
 
-Contact: [cuchchristians@gmail.com]
+Contact: <cuchchristians@gmail.com>
