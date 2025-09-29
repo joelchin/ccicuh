@@ -1,8 +1,8 @@
 title: "Connecting Christians in CUH"
 description: "Fellowship, prayer and encouragement at Cambridge University Hospitals"
 
-url: "https://joelchin.github.io"
-baseurl: "/ccicuh"
+url: "https://ccicuh.info"
+baseurl: ""   # remove /ccicuh, since you’re now at the root domain
 
 masthead_title: "CCICUH"   # text in the top-left
 
