@@ -12,6 +12,12 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
+analytics:
+  provider: "google-gtag"   # use "google" for old Universal Analytics
+  google:
+    tracking_id: "G-625N3EYVB4"   # replace with your GA4 Measurement ID
+    anonymize_ip: false           # optional
+
 header:
   overlay: false
   show_overlay_excerpt: false
