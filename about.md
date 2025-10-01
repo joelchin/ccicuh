@@ -43,4 +43,4 @@ We also draw on the *Transform Work Statement of Faith* (used with thanks — se
 
 
 
-📧 Contact: <cuchchristians@gmail.com>  
+📧 Contact: <cuhchristians@gmail.com>  
