@@ -21,7 +21,7 @@ We also draw on the *Transform Work Statement of Faith* (used with thanks — se
 
 <div class="statement-faith">
 
-**Transform Work Statement of Faith**  
+**Transform Work Statement of Faith**
 
 1. There is one God: Father, Son and Holy Spirit.  
 2. God is sovereign over all things in Heaven and Earth.  
@@ -40,4 +40,4 @@ We also draw on the *Transform Work Statement of Faith* (used with thanks — se
 
 We come from different church traditions and denominations, but we share a common faith centred on Jesus Christ and the good news of the gospel.  
 
-📧 Contact: <cuhchristians@gmail.com>  
+📧 Contact: <cuchchristians@gmail.com>  
