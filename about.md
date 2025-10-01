@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-We are a Christian fellowship at **Addenbrooke’s Hospital (CUH)**.  
+We are a Christian fellowship at **Cambridge University Hospitals (Addenbrooke’s Hospital)**.  
 
 Our aim is simple: **connecting Christians in CUH** — staff, students, and anyone interested in exploring the Christian faith.
 
