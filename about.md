@@ -16,7 +16,7 @@ What we do together:
 
 ## Our Beliefs
 
-As Christians in CUH,, we come from different church traditions and denominations, but we share a common faith centred on Jesus Christ and the good news of the gospel.  
+As Christians in CUH, we come from different church traditions and denominations, but we share a common faith centred on Jesus Christ and the good news of the gospel.  
   
 We also draw on the *Transform Work Statement of Faith* (used with thanks — see [transformwork.net](https://www.transformwork.net/)) to summarise core doctrines clearly:
 
