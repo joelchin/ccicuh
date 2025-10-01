@@ -26,10 +26,10 @@
    FULL CALENDAR (Calendar page)
    =========================== */
 .calendar-full {
-  width: 66%;              /* 2/3 width */
+  width: 80%;              /* 2/3 width */
   margin-left: auto;       /* center horizontally */
   margin-right: auto;
-  height: 800px;           /* tall for month/week view */
+  height: 400px;           
   border: 1px solid #e5e5e5;
   border-radius: 8px;
   overflow: hidden;
