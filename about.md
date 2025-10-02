@@ -22,7 +22,7 @@ We also draw on the *Transform Work Statement of Faith* (used with thanks — se
 
 <div class="statement-faith">
 
-<strong>Transform Work Statement of Faith</strong>
+<strong>Statement of Faith</strong>
 
 <ol>
   <li>There is one God: Father, Son and Holy Spirit.</li>
