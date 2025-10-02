@@ -35,19 +35,11 @@ or **[open in Google Calendar](https://calendar.google.com/calendar/r?cid=cuhchr
 ### 📅 Add this calendar to yours
 
 <p class="buttons">
-  <a class="btn btn--primary"
-     href="https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com"
-     target="_blank" rel="noopener">
-    + Add to Google Calendar
+  <a class="btn btn--primary" href="{{ "/calendar/" | relative_url }}">
+    📅 Full Calendar on this Site
   </a>
-
-  <a class="btn"
-     href="webcal://calendar.google.com/calendar/ical/cuhchristians%40gmail.com/public/basic.ics">
-    + Subscribe via iCal (Apple/Outlook)
-  </a>
-
-  <a class="btn btn--info"
-     href="https://calendar.google.com/calendar/ical/cuhchristians%40gmail.com/public/basic.ics">
-    Download .ics file
+  <a class="btn" href="https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com" target="_blank">
+    🔗 Open in Google Calendar
   </a>
 </p>
+
