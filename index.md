@@ -27,19 +27,28 @@ We meet regularly for prayer, worship, Bible reading, and fellowship.
   </iframe>
 </div>
 
-👉 See the **[full calendar on this site]({{ "/calendar/" | relative_url }})**  
-or **[open in Google Calendar](https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com)**.  
+### 📅 Calendar Options
 
----
-
-### 📅 Add this calendar to yours
-
-<p class="buttons">
-  <a class="btn btn--primary" href="{{ "/calendar/" | relative_url }}">
-    📅 Full Calendar on this Site
+<p class="buttons" align="center">
+  <a class="btn btn--primary"
+     href="{{ "/calendar/" | relative_url }}">
+    📖 Full Calendar (Site)
   </a>
-  <a class="btn" href="https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com" target="_blank">
-    🔗 Open in Google Calendar
+
+  <a class="btn"
+     href="https://calendar.google.com/calendar/r?cid=cuhchristians@gmail.com"
+     target="_blank" rel="noopener">
+    🔗 Google Calendar
+  </a>
+
+  <a class="btn"
+     href="webcal://calendar.google.com/calendar/ical/cuhchristians%40gmail.com/public/basic.ics">
+    ➕ Subscribe (iCal / Apple / Outlook)
+  </a>
+
+  <a class="btn btn--info"
+     href="https://calendar.google.com/calendar/ical/cuhchristians%40gmail.com/public/basic.ics">
+    ⬇️ Download .ics
   </a>
 </p>
 
